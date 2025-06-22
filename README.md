@@ -2,7 +2,7 @@
 
 >作者：[程序员小白条](https://luoye6.github.io/)
 >
->[Gitee 主页](https://gitee.com/falle22222n-leaves)
+>[Gitee 主页](https://gitee.com/luoye6)
 >
 >[GitHub 主页](https://github.com/luoye6)
 
@@ -11,10 +11,10 @@
 + 本项目支持 Knife4j 在线接口调用（需在全局参数中添加有效 Token）
 + 未经本人允许擅自将本项目作于商用、竞赛、贩卖源码、毕设擅自改动作者等违法行为，将依法追究法律责任，后果自负，项目已申请软件著作权。
 + 如果项目对您有所帮助，可以Star⭐一下，受到鼓励的我会继续加油。
-+ [项目前端地址](https://gitee.com/falle22222n-leaves/vue3_trade_frontend)
-+ [项目后端地址](https://gitee.com/falle22222n-leaves/vue3_trade_backend)
++ [项目前端地址](https://gitee.com/luoye6/vue3_trade_frontend)
++ [项目后端地址](https://gitee.com/luoye6/vue3_trade_backend)
 
-[![star](https://gitee.com/falle22222n-leaves/vue3_trade_backend/badge/star.svg?theme=dark)](https://gitee.com/falle22222n-leaves/vue_-book-manage-system)  [![gitee](https://badgen.net/badge/gitee/falle22222n-leaves/red)](https://gitee.com/falle22222n-leaves)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)
+[![star](https://gitee.com/luoye6/vue3_trade_backend/badge/star.svg?theme=dark)](https://gitee.com/luoye6/vue3_trade_frontend)  [![gitee](https://badgen.net/badge/gitee/luoye6/red)](https://gitee.com/luoye6)  [![github](https://badgen.net/badge/github/github?icon)](https://github.com/luoye6)
 
 ## ☀️个人介绍
 
