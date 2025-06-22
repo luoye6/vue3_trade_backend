@@ -22,6 +22,7 @@
     <img src="https://pic.yupi.icu/5563/202403021406388.png" alt="图片1" style="width: 200px; height: auto;">
     <img src="https://pic.yupi.icu/5563/202403021406360.png" alt="图片2" style="width: 200px; height: auto;">
 </div>
+
 ## ☀️项目介绍
 
 **智能 AI 校园二手交易平台**（Intelligent AI Campus Second-hand Trading Platform）是一个利用 AI 模型和数据分析为用户提供个性化二手商品推荐、商品评分、交易攻略分享等功能的综合性系统。该系统融合了 AI 购物顾问、图表数据分析、买家留言、购物日历、商品浏览、攻略收藏、聊天室互动等多种功能，项目功能总计 20+，并支持拓展会员功能以实现商业化处理。
